@@ -1,4 +1,4 @@
-@_exported import CoreTarget
+import CoreTarget
 
 public struct PrimaryService {
     public var text = "Hello, World!"
